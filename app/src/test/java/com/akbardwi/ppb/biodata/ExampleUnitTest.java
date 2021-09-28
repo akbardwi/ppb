@@ -1,4 +1,4 @@
-package com.akbardwi.ppb;
+package com.akbardwi.ppb.biodata;
 
 import org.junit.Test;
 
