@@ -1,4 +1,4 @@
-package com.akbardwi.ppb.biodata;
+package com.akbardwi.ppb.kalkulatorbidangdatar;
 
 import org.junit.Test;
 
