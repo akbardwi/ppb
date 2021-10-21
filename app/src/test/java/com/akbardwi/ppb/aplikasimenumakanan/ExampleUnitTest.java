@@ -1,4 +1,4 @@
-package com.akbardwi.ppb.kalkulatorbidangdatar;
+package com.akbardwi.ppb.aplikasimenumakanan;
 
 import org.junit.Test;
 
