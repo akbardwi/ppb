@@ -1,4 +1,4 @@
-package com.akbardwi.ppb;
+package com.akbardwi.ppb.kalkulator;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.akbardwi.ppb;
+package com.akbardwi.ppb.kalkulator;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.akbardwi.ppb", appContext.getPackageName());
+        assertEquals("com.akbardwi.ppb.kalkulator", appContext.getPackageName());
     }
 }
